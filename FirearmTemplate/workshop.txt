@@ -1,0 +1,6 @@
+version=1
+id=2628113354
+title=Firearm Template
+description=asd
+tags=Build 41;Framework
+visibility=private
